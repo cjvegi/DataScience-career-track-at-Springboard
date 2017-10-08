@@ -1,2 +1,2 @@
 # Springboard-Data-Science-career-track
-One place where I staretd learning data science from scratch
+Folder contains projects that I will be working on during my Data Science course at Springboard

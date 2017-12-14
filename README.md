@@ -2,7 +2,7 @@
 
 Data science career track curriculum at Springboard consists:
 1. Python (using Pandas, Matplotlib, NumPy, etc..)
-2. Data Wrangling (some SQL involved)
+2. Data Wrangling 
 3. Inferential Statistics
 4. Machine Learning (using Scikit-Learn)
 5. Data Visualization (using D3.js, Seaborn)

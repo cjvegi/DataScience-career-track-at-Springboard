@@ -1,14 +1,11 @@
-# Springboard-Data-Science-career-track
+# Json-Based-Excercise 
 
-Data Science Career track curriculum at Springboard consists of: 
-1. Python (using Pandas, Matplotlib, NumPy, etc..)
-2. Data Wrangling
-3. Exploratory Data Analysis
-4. Inferential Statistics
-5. Machine Learning (using Scikit-Learn)
-6. Data Visualization (using D3.js, Seaborn)
-7. Big Data (using Spark)
-8. Capstone Projects (2)
-9. Data Story Telling
-
-This repository consists all the exercises, projects that I would be doing over the course of the career track.
+Excercises on JSON data
+  1. To get familiar with packages for dealing with JSON
+  2. Study examples with JSON strings and files
+  3. Work on exercise to be completed and submitted
+  
+Objective: Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
+  1. Find the 10 countries with most projects
+  2. Find the top 10 major project themes (using column 'mjtheme_namecode')
+  3. In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in

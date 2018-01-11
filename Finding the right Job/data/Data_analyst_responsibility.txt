@@ -1,0 +1,85 @@
+Gather data from various departments and condense into a standard format. Interpret data, analyze results using common techniques and provide ongoing reports.Develop and implement databases, data collection systems and data analytics that optimize efficiency.Identify, analyze, and interpret trends or patterns in data. Locate and define new process improvement opportunities. Utilizing strong SQL and Statistics skills to check, identify, report and correct data quality issues Discovering and curating data sources Profiling and transforming data that is replicated into a Data Lake Creating data standards, assessing data quality and creating required transformations Collaborating with IT teams to support data collection, integration, and retention requirements based on the input collected with the businessPerform data analysis of complex, unstructured data in a small data team
+Using SQL and other scripting tools to manage the data (R, Python, etc.)
+Work in a collaborative team
+Take the lead on projects, as neededETL experience in BigInsight/Bigquality or infosphere
+Security (Kerbros)
+Exposure to Hadoop components & ecosystem (file storage, workflows, NoSQL DB)
+Strong SQL and RDBMS design skills
+Strong dimensional modeling concepts
+Agile Software development, JIRA, Wiki, CrucibleNice to have
+Google Analytics, Adobe Analytics
+Scala, perl, python
+NoSQL-Hbase
+Stream processingConduct analysis for statistical modeling projects with minimal guidance from senior team members including:
+Explore and clean data
+Configure and review predictive models
+Document and present analytic results
+Work effectively in a team environment with all levels of the organization including client support and implementation engineering
+Work on multiple projects simultaneously; deliver quality results in a timely manner
+Communicate with the client to obtain information, present, or assist in presenting analytic results throughout the course of the project
+Identify process improvement opportunities and develop new toolsBe able to start around the beginning of January.
+Have strong SQL skills (building logic on its own, not just querying the data)
+Have strong R or Python Skills.
+Be realy good with Tableau Development (including Tableau Server)
+There is a good hourly/Daily rate associated with this roleWork on customer projects to deliver data solutions and identify products that satisfy market demand
+Validate new concepts and integrate them into the product development process
+Build custom solutions to satisfy customer-specific requirements
+Write advanced MySQL queries in Apache-Hive and MySQL workbench
+Design aesthetically pleasing, engaging, and efficient visualizations
+Participate in ongoing research and evaluation of new technologies
+Collaborate across the organization from Product Management, Software Engineering, to Operations to deliver timely, high-quality data services
+Provide critical business feedback and research to Engineering to continually improve the company’s television DMPWork closely with internal algorithms and machine intelligence teams to understand how we can leverage what they have done
+Work with internal product team to develop view of product
+Architect, develop, automate and test a recommender system
+Execute sophisticated quantitative analyses and modeling SmartAsset is looking for a junior Data Analyst to join our NYC-based Data Engineering team. As Data Analyst, you will work on a wide range of challenging tasks together with our Product, Business and Data Engineering teams.s a Data Analyst at NLI, you’ll be supporting an amazing team of bright, fast-paced, hard-working people.
+
+Your typical week will include
+
+one-two days a week analyzing recruitment trends, entering recruitment related data, and supporting recruitment operations
+
+one-two days analyzing sales trends, supporting systems integration, and helping with sales operations
+
+one day on utilization/resource planning
+
+Here’s a bit about you and your experience:
+
+Data and trend analysis get you excited! You have experience with both and are strong in report creation/generation.
+
+You excel in Excel, other software (both MS Office and Google Apps), and apps. If you have experience using plug-ins for data gathering, even better.
+
+You have experience with CRMs. HubSpot, preferred.
+
+You’re comfortable supporting calendaring for our General Manager and Talent Seeking team.
+
+You make information easy to find.
+
+Discretion is your watchword!
+
+You love learning better ways to do things and are excited to adopt and perpetuate best administrative practices.
+
+You look for ways to do more, better, and faster, without compromising quality.
+
+If the above describes you and who and where you want to be, we want to hear from you!
+
+Applicants will be expected to take an intensive, task-based selection process.
+Expand the number of prospective Ecosystem partners captured in Salesforce by creating new accounts, leads, and opportunities based on feedback from Veritone staff and outside research.
+
+Develop new methods of populating the Ecosystem database via programmatic ingestion of contacts, lists, targeted web scraping, or other means. Identify and implement partners for data mining and e-mail list augmentation.
+
+Oversee and continue to refine the Salesforce database structure, categorization, and workflows utilized to manage the Ecosystem with the goals of simplicity yet effectiveness.
+
+Manage day-to-day relationships with external research sources, e.g. CrunchBase, Pitchbook, Mattermark etc including quality control.
+
+Assist with the development and successful tracking of targeted marketing campaigns, by partnering with the Ecosystem Product Marketing Manager and other Ecosystem team members.
+
+Develop and deploy triggers in the Veritone platform that can track and categorize user behavior and engagement along various Ecosystem funnel points, e.g. developer account creation, acceptance of terms & conditions, engagement with support channels, etc.
+
+Develop and implement useful dashboards and reports to shed light on key performance indicators (KPIs) related to the ongoing expansion of the Ecosystem and partner onboarding.
+
+Assist with partnership onboarding and support by establishing a means of tracking reported partner issues, company interactions, and resolution.
+
+Collaborate across the Veritone organization and Ecosystem group, interfacing with key executives, internal groups, and external stakeholders to solve potential issues and improve the efficiency of the department overall. Detect and explore using SQL
+Make suggestions and recommendations by being inquisitive and analyticWork closely with the Operations team make business decisions through the evaluation of data
+Support finance and business teams with key data business analysis
+Prepare executive-grade financial reporting, summarizing findings and recommendations
+Work closely with the engineering team in building out financial infrastructure

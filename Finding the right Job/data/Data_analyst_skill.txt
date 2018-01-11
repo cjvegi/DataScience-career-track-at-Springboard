@@ -1,0 +1,40 @@
+Bachelor’s degree in Business, Economics, Mathematics, Statistics, Computer Science or related quantitative field
+Three+ years professional experience with complex business reporting, data mining, and visualization
+Excellent knowledge of statistics and experience with at least two of the following statistical tools (Excel, SPSS, MATLAB, R)
+Excellent data visualization skills in Tableau or similar software
+Advanced SQL expertise with an emphasis on performance and efficiency
+Familiar with VBA macros, Power Query, and Power Pivot in Microsoft applications
+Hadoop or other comparable MapReduce experience
+Ability to develop advanced solutions in Python
+Preferred Qualifications
+Master's or Ph.D. degree with emphasis on coursework of a quantitative nature (e.g. Statistics, Computer Science, Engineering, Mathematics)
+Experience developing a recommender system
+Experience working with statistical packages (e.g., R, SAS, Stata, MATLAB, etc.)
+Experience with machine learning and machine learning packages (scikit-learn, TensorFlow, etc
+Zenith Talent Corporation provides staffing and consulting services to the world's most innovative businesses. Our clients trust us to find them the finest executive, professional and technical talent required to turn their pioneering ideas into reality. Our employees and consultants are regularly considered the brightest and most capable in the industry.
+3-5 years of experience in a similar role
+BA/BS degree or equivalent with emphasis on coursework of a quantitative nature (e.g. Statistics, Computer Science, Engineering, Mathematics)
+Experience with machine learning and machine learning packages (scikit-learn, TensorFlow, etc.)
+Deep interest and aptitude in data, metrics, analysis and trends and applied knowledge of measurement, statistics and program evaluation.
+Distinctive problem solving skills and impeccable business judgment.
+Strong written and verbal communication skills.Master's or Ph.D. degree with emphasis on coursework of a quantitative nature (e.g. Statistics, Computer Science, Engineering, Mathematics)
+Experience developing a recommender system
+Experience working with statistical packages (e.g., R, SAS, Stata, MATLAB, etc.)
+Experience with machine learning and machine learning packages (scikit-learn, TensorFlow, etc
+Zenith Talent Corporation provides staffing and consulting services to the world's most innovative businesses. Our clients trust us to find them the finest executive, professional and technical talent required to turn their pioneering ideas into reality. Our employees and consultants are regularly considered the brightest and most capable in the industry.Excellent Mathematics and Statistics Skills
+Knowledge of Excel (including Visual Basic scripting)
+Some knowledge of software development (with one of the following languages: Python, Java, Ruby, JavaScript, Perl, C/C++)
+Experience with Linux/Unix environments and shell scripting
+Experience with some statistics tools (SPSS, R, etc)
+Excellent communication skills requiredWork with our in-house Data Engineering and Analytics team
+Provide reports and analysis to various internal teams
+Build automated reporting systems as required
+Analyze various data-sets and provide insights Strong SQL skills including queries, joins, and tables
+Ability to work closely with the organization in writing and communicating technical requirements 1+ years of experience working professionally in an Analyst role (or similar) with large data sets
+Professional work experience building complex PostgreSQL queries
+Professional ETL or data warehouse experience
+Finance or Financial modeling experience
+Python or R
+Excel & Tableau experience
+Experience presenting your data to executives (Powerpoint experience ideal)
+Bachelor’s degree from a top-tier university (strong academic performance)

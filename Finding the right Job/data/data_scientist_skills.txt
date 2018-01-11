@@ -1,0 +1,166 @@
+M.S. or Ph.D. in Statistics, Operations Research, Mathematics, Computer Science, or other quantitative field
+2+ years professional or research experience
+Passion for solving unstructured and non-standard mathematical problems
+End-to-end experience with data, including querying, aggregation, analysis, and visualization
+Proficiency with Python, or another interpreted programming language like R or Matlab
+Willingness to collaborate and communicate with others to solve a problem
+4+ years experience in a data modeling role
+Advanced programming skills in Python
+Proficiency in SQL and knowledge of RDBMs like Postgres and Redshift
+Experience using Git and the UNIX command-line
+Proven track record of putting solutions into production
+Strong leadership, presentation, communication, and interpersonal skills
+Strong knowledge of statistics, algorithms, data structures, and machine learning
+Bachelors in a quantitative field
+Masters degree or PhD in relevant field preferred; strong statistical background
+5 years of experience in advanced analytics, data mining, predictive modeling, machine learning, or other data intensive analytical role
+Proven ability to design and leverage data science methods according to client needs and in support of client decision-making
+Experience working with large-scale databases, big data frameworks, and tools
+Extensive experience with SAS, R, SQL, and/or business intelligence tools in the application of machine learning, network analysis, text analytics and/or predictive modeling
+Proven ability to effectively communicate design specifications and results of models to internal and external audiences
+Strong record of proven leadership ability and excellent communication skillsPrior experiencing leading advanced analytical teams and/or engagements is highly desired
+Experience formulating or contributing to proof concept analyses or demos is highly desired
+Experience contributing to innovative analytical solutions is highly desired
+Experience contributing to business development efforts and business proposals is highly desired
+Subject-matter knowledge in a human services substantive area such as education, labor, family support field preferred
+C, C , Java, matlab, scala, Python, R (in no particular order or preference, these just shouldn’t be foreign to you)
+Some experience with utilizing hardware offload engines for software such as GP-GPUs, Phis, FPGAs, etc. 
+3+ years of experience in product-oriented quantitative analysis and data science, preferably at a social media and/or mobile technology company
+BA or MA degree in Math, Statistics, Computer Science, or other quantitative field PhD is a plus
+Someone with a thorough understanding of statistics and machine learning
+Fluency in SQL or other big data querying languages
+Experience with programming languages such as Python
+Experience with analytical packages such as SciPy or R
+Ability to initiate and drive projects to completion with minimal guidance
+Ability to communicate analyses in a clear and effective manner to senior-level audiences
+
+Experience and/or knowledge of device level view of storage devices and software defined networking is a plus
+3-5 years of experience in Data Science
+B.S. in engineering, applied math, statistics or other quantitative field; M.S or PHD preferred
+Strong in Python, statistical analysis, tools and modeling
+Industry experience in mining data, performing feature reduction, building models and externalizing them for production environment
+Strong oral and written communication skills; extremely attentive to detail
+Ability to thrive in a fast-paced startup environment
+2+ years of experience in statistics, data mining and predictive modeling required
+2+ years of programming experience in Java/Scala and/or Python required
+Experience with Hadoop stack (HIVE, Pig, Hadoop streaming) and MapReduce
+Experience with HBase or comparable NoSQL
+SQL & database experience
+Experience in collecting data from/exposing data to various data sources and services (API, JSON, XML)
+Experience in implementing real-time machine learning and data mining algorithms in large scale environments a big plus
+Experience with Google products especially Google Cloud Storage, Google Analytics and Google Big Query a big plus
+Great communication skills and ability to explain data and analysis to a variety of audiences
+Bachelors degree in quantitative or related field
+Bachelor’s Degree required, preferred in Data Science, Operations Research, Applied Mathematics, Computer Science, Engineering, Statistics
+PhD or Master’s Degree preferred in Data Science, Operations Research, Applied Mathematics, Computer Science, Engineering, Statistics, or related discipline.
+Typically requires 5+ years of related experience
+Experience in the petrochemical industry or geoscience is not necessary but nice to have.
+Experience working with the Hadoop or SPARK ecosystem is preferred.
+Programming knowledge of Python and/or R. PhD in Statistics, Epidemiology, Health Economics, Biostatistics, Computer Science, Clinical/Biomedical Informatics or a related computational and quantitative disciplines, or a Master’s degree (scientific field of study) and 5+ years of relevant experience.
+Strong technical understanding and experience with supervised and unsupervised ML techniques, and graph theory/network analysis.
+Domain knowledge in clinical data, real word data, and/or other related data sources such as providers and health systems.
+Extensive experience in applying data mining, and advanced analytics to complex problems, along with a broad understanding of core statistical principles
+Expertise with programming languages such as R, Python, JavaScript, or others.
+Proven track record of rapid prototyping and development of analytics solutions, leveraging open source or commercial frameworks (e.g. TensorFlow, Hadoop, AWS).
+Familiarity with parallel computing and databases (e.g. SQL).
+Familiarity with varied data visualization techniques
+Strong data analysis skills and ability to integrate information from different sources to generate testable hypotheses.
+Comfortable working with both technical and non-technical staff to translate concepts and algorithms into working prototypes.
+Able to thrive in a fast-paced environment with uncertainty.Strong communication skills.
+Experience presenting experimental findings to people who are not data scientists or machine learning experts
+Ability to collaborate with the team and translate existing research into practical solutions and products bility to build and maintain relationships with various collaborators across the company, and take ownership of data science projects and proof of concepts Proven experience modeling and improving customer acquisition, retention, and lifetime value in a competitive market
+Experience in a leadership role coordinating technical work, scoping long term deliverables, mentoring individual contributors, and improving process
+Proficiency in experimental design and a wide range of research methods
+Advanced degree in technical discipline
+Excellent outward-facing communication skills
+Unwavering attention to detail
+Positive team-oriented attitude
+Passion for the energy industry Bachelor's degree in Math, Finance, Statistics, Engineering or related discipline
+Experience with Python, R, or other statistics/machine learning packages
+3+ years experience as a business analyst, data scientist or similar job function, including 1+ years of relevant experience with building statistical models and machine learning.
+Ability to develop experimental and analytic plans for data modeling processes, use of strong baselines, ability to accurately determine cause and effect relations Advanced degree in Math, Statistics, Engineering, Computer Science or related discipline
+Demonstrated ability to frame complex analytical problems and extract insights that led to tangible business results Master's degree in MS in Statistics or related quantitative field (e.g. Computer Science, Econometrics, Mathematics, Physics, Operations Research).
+3+ years related experience such as analyzing data and/or building analytical models; in either an academic or professional setting and 3+ years relevant work experience.
+Experienced with scripting languages such as R, Python, Ruby or SAS.
+Real world analytical solution building experience.
+Ability to draw conclusions from data and recommend actions.
+Demonstrated self-direction.
+Proficient in prototyping models using scripting languages (e.g. Python, Ruby, etc.). PhD in in Statistics or related quantitative field (e.g. Econometrics, Mathematics, Physics, Operations Research).
+Experience in causal inference is a plus. 
+
+We will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local laws. Ph.D. or Master's Degree in Computer Science, Electrical Engineering, Statistics, Mathematics, Physics, Computational Finance, Industrial Engineering, Financial Engineering, Operations Research or a similar quantitative field. Ph.D. preferred.
+Expertise in Machine Learning, Data Mining, Pattern Recognition, Natural Language Processing or Computer Vision.
+Publications in peer-reviewed journals and conferences.
+Experience or interest in programming in one or more of these languages: C++, C, Java, Python, Go, etc. Stay hungry: We created a place that continuously pushes the boundaries of the industry. For this role, we are not looking for someone that just applies libraries and write analyses. We want someone who is willing to challenge the status quo, develop innovative solutions, and ultimately provide guidance to the global engineering and business teams.
+Pursue impacts: We want you to be obsessed with impacts. Finding patterns from data is essential but not enough. You need to have the business acumen to create customer values from your findings.
+Passion to work at a start-up and in a team: we are a start-up but we have a team from senior researchers/engineers to graduate students where we look out for each other. We work hard and play hard. MS or PhD in a quantitative field
+Python and/or R
+Machine Learning
+Data Mining
+Hadoop
+Build, validate and implement machine learning models
+Ability to communicate analytic models/results to business partners
+Create, observe and iterate models for production
+Use of analytics to drive success metrics for business operations and risk analytics
+ Understanding of how to apply statistical design of experiments and determine statistically significant sample size preferred
+Ability to analyze complex data and processes, Experience in new accounts/card application or Digital marketing analytics preferred
+Ability to lead a team with an analytical and/or reporting remit
+Knowledge of credit card business, platforms, and procedures
+Minimum 2 years of advanced SAS/SQL experience is required
+Experience using Big Data tools (Hadoop, Hive, Python) a plus
+Strong Microsoft Office skills (specifically Excel, PowerPoint)
+Masters or PhD in Statistics, Economics, Mathematics or related analytical field is preferred BA/BS degree in a quantitative field (CS, Math, Statistics, Economics, etc.) strongly preferred.
+3+ years of experience with large datasets. Extra credit for of varied levels of structure.
+Experience working with Python. Bonus points if you've used it to build robust data pipelines and automate data tasks.
+Experience Knowledge of SQL skills against large datasets
+Desire to apply academic knowledge to solve real-world problems
+Smarts, humility, and equal willingness to learn and teach
+Ability to work with APIs in Python a plus (e.g. Google Analytics, Tumblr). Python (we also like R)
+Hive, MySQL
+Google Sheets
+Git, Jira
+Jupyter, Luigi
+Pandas, Scikit-learn Master’s Degree in Data Science or related field
+A minimum of 8 years relevant technical experience
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc. and experience with common data science toolkits, such as R, Python, etc. – these are key areas where prior knowledge would be a definite positive
+Experience with data visualization tools, such as D3.js, GGplot, Tableau, etc.
+Good skill set in applied statistics, in areas including distributions, statistical testing, regression, etc.
+“Data-oriented personality”
+Proven team player, good time management, outstanding communication skills (both verbal and written), and excellent decision making skills
+Scripting and programming exposure
+Ability to learn and also train others in a fast-paced environment
+Willingness to travel domestically on an as needed basis Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+
+· Min 3 years of Experience in Hadoop (Cloudera, HortonWorks and/or MapR) Architecture, Deployment, and Development.
+
+· Mis 3 years of Experience with common data science toolkits, such as R and Python. Excellence in at least one of these is highly desirable
+
+· Great communication skills
+
+· Experience with data visualization tools, such as Tableau, Spotfire, etc.
+
+· Experience in Data Engineering tools and techniques -Map Reduce, Pig, Hive, HBase, Oozie, Spark, solr
+
+· Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+
+· Experience in OCR technics and Computer vision
+
+· Data-oriented personality Develop and implement a proactive program of processes, and deliverables to improve data gathering, analysis, and intelligence dissemination
+Design and implement timely marketing campaign and promotional measurement that measures ROI and incrementality
+Apply design of experiments (DOE)techniques for A/B and multi-dimensional testing to drive data driven business decisions
+Design and execute customer targeting models that drive incremental response for the business (CRM development) as related to acquisition, retention, and customer recovery
+Design and leverage various types of customer segmentation models to enhance targeting efforts and to drive measurable results
+Provide timely and accurate profiles of the customers within and across brands to identify opportunity for growth and assess overall customer health
+Integration of marketing performance and impact within the sales funnel to drive coordination between Marketing and Operational initiatives Bachelor’s Degree in Computer Science, Statistics, Advanced Analytics, Mathematics or relevant field
+Preferred 1-2 years of relevant work experience
+Familiarity with various data modeling techniques (linear/logistic regression, ANOVA, ARIMA, Clustering, time series, machine learning)
+Strong command of advanced data analysis tools and software (R, Python, SAS, etc.), and querying languages (SQL)
+Experience working within a big data environment
+Advanced skills to work with large, complex, and disparate data (accessing, connecting, and analyzing)
+Articulate with excellent verbal and written communication skills
+Highest standards of accuracy and precision; highly organized
+Strong analytical and problem solving Advanced degree in Computer Science is preferred
+3+ years of experience in data analysis or similar role
+Experience applying statistical methods (distribution analysis, classification, clustering, etc.)
+Strong coding skills with data-frames are a prerequisite, example platforms include Pandas, R, Matlab, and Apache Spark Demonstrated experience highlighting innovation, creativity, and intuition, e.g the ability to laterally identify other sources of useful information and think 'outside the box'
+

@@ -1,0 +1,95 @@
+Work with Data Scientists and Product Managers to frame a problem, both mathematically and within the business context
+Perform exploratory data analysis to gain a deeper understanding of the problem
+Construct and fit statistical, machine learning, or optimization models
+Write production modeling code; collaborate with Software Engineers to implement algorithms in production
+Design and run both simulated and live traffic experiments
+Analyze experimental and observational data; communicate findings; facilitate launch decisions
+Its your mission to put your mathematical chops to the test and find new ways to tweak, optimize, and expand on our algorithms. Working with different teams across Unified, you will design, implement, and automate robust statistical and machine learning solutions to derive high impact results. 
+Oversee the delivery of scalable and real-time analytical information in support of client decision making and Mathematicas projects
+Manage data science projects and tasks
+Contribute to business development efforts (proposals, strategies, capabilities) for data science opportunities
+Leverage technical expertise in applied data science and advanced analytics to build sound predictive analytical models and produce business intelligence solutions
+Apply a wide array of advanced data mining techniques (including supervised and unsupervised methods, dimension reduction methods, and social network analysis methods) in support of research and operational analytic projects.
+Contribute to methodological standards for the companys data analytics capabilities
+Advise senior management on gaps in the companys current technical capabilities and recommend plans for growth through the adoption of new methodologies and technology
+Mentor and support the professional development of new and existing staff in data science and advanced analytics
+
+Be Multidisciplinary. Primarily your role will involve deep domain knowledge of various maths, statistical methods, and algorithms. However, as this is a higher level position, challenges will arise which require growth in potentially new areas in support of your primary role.
+Adopt, and when necessary, develop tools and code required to provide detail oriented models and simulations of large, complex compute, network, and storage systems
+Provide insights into simulation and modeling architecture and design choices
+Keep current with and act as primary point of contact for the group in regards to all matters related to data analysis and modeling
+Computer science and mathematics background necessary
+Familiarity with current open-source ML and AI tools and frameworks
+Experience with/knowledge of Cloud computing/Hyper-scale environments
+Strong communication and documentation skills.
+Comfortable leading small technical groups for complex projects and will take the initiative to identify problems before they impact the project.
+Able to execute on goals of complex, specialized technical projects/assignments with little to no direction or supervision
+Driven to publish interesting results to academia
+
+Partner with the Product, Finance, and Engineering teams, and apply your expertise in quantitative analysis, data mining, and machine learning to create and scale insights
+Create and test hypotheses
+Build models to understand how Pray users interact with the Pray app, and predict the effect of business decisions
+Report insights via visualization and dashboards
+Help the Business and Engineering teams make decisions based on data
+Use predictive modeling to build data-driven insights to improve insights for prospective and current customers
+Serve as a champion of sound decision-making at all levels of the company 
+Identify and propose Data Science solutions for various product initiatives. Design and build predictive customer behavior models for targeting and personalization. Implement the applicable Machine Learning or statistics based algorithm for prediction and optimization and deliver the trained model to production. Present findings to product team and technical team leads in a clear and actionable way. Build and maintain code to populate HDFS, Hadoop with log from Kafka or data loaded from SQL production systems. Design, build and support algorithms of data transformation, conversion, computation on Hadoop, Spark and other distributed Big Data Systems 
+Experienced in data analysis and discovery, cleaning and analyzing data to discover the hidden truth.
+Strong computational modeling and algorithmic skills to solve business problems.
+Knowledge and proficiency in machine learning or statistical modeling.
+Knowledge of algorithm development and predictive/prescriptive modeling techniques to build, maintain, and improve decision support systems.
+Actively works with the client’s project teams and business partners to understand business requirements and translate those requirements into new solutions.
+Continually enhance the advanced analytics program by staying up to date on the latest data science, advanced analytics, and big data trends. Develop innovative and fit for purpose solutions across the business.
+Provide expertise with advising and deploying advance analytical techniques for solving problems and advancing business opportunities across all functions.
+Oversee the innovative use of diverse data sources, such as clinical trial data, electronic health record data, insurance claims data, and disease, patient data.
+Contribute to the design, development, and implementation of data science solutions that guide decision-making and building foundational capabilities.
+Advise senior management on opportunities and gaps in the company’s current capabilities across data science technology and infrastructure, and recommend plans for growth through adoption of new methods and/or technologies.
+Mentor and support the training of new and existing staff in data science and advanced analytics.
+Support the translation and appropriately champion advanced analytics results and capabilities to non-technical audiences.
+Participate in the broader data science community to stay current with data and technology development.
+Foster an entrepreneurial mindset and collaboration with IT and business partners and internal analytics community.
+Coaches, develops and mentor employees (team) on data science tools and methodologies Design models to predict consumer behavior in competitive retail energy markets
+Develop strategies to improve customer acquisition and retention for retail energy providers
+Lead a dynamic and talented team of data scientists disrupting the retail energy market with cutting edge data analytics Apply Statistical and Machine Learning methods to specific business problems and data
+Design, develop and evaluate highly innovative models for predictive learning
+Manage your own process: identify and execute on high impact projects, triage external requests, and make sure you bring projects to conclusion in time for the results to be useful
+Communicate your results to diverse audiences with effective writing and visualizations Apply state of the art machine learning, statistics or data mining in a variety of areas, including customer analysis, video content genome, social analysis, etc.
+Invent and fast iterate on novel solutions to challenging data related problems.
+Develop scalable and efficient methods for large scale data analyses and model development.
+Collaborate with developers, program managers, and product managers in an open, creative environment.
+Coaching and providing research and system guidance to a team of other researchers on a variety of areas including video content genome, social mining, data analysis, etc. Lead in cutting-edge AI research and develop innovative approaches in the financial/healthcare domains to solve real-world problems. Publish your results and grow Graphen’s IP portfolio.
+Contribute ideas, develop prototypes and implement efficient and effective algorithms for Graphen solutions. Collaborate with our team of business analysts and operations to create state-of-the-art prediction models
+Work on High visibility projects that will create a direct impact strategy and outcomes
+Have a passion for innovative analysis, scalable processes and discovering hidden treasures beyond the numbers Partner across Application Experience Digital Product teams to drive test and learn
+Support a digital test and learn program, including test planning, execution and analytics
+Provide financial analysis to support project investment and prioritization decisions
+Provide strategic analytics The successful candidate will lead a team with skills in Digital Marketing analytics, Test & Learn or Hypothesis testing & new accounts platform analytics. Apply various data modeling techniques to model user behavior and identify actionable levers for retaining and growing users.
+Define key metrics, conduct A/B testing, and oversee statistical measurement of new algorithms and approaches.
+Develop key data sets and expose them as reusable libraries and utilities.
+Enhance analytics ETL pipeline and automate recurring analytics tasks.
+Monitor the trends of metrics and identify the root cause of unexpected changes.
+Partner with Product and Engineering teams to solve problems and identify trends and opportunities for user growth. Selecting features, building and optimizing “data classifiers” using machine learning techniques and software
+Data mining using state-of-the-art methods and software
+Extending company’s data with third party sources of information when needed (such as weather data)
+Enhancing data collection procedures to include information that is relevant for building analytic systems – includes identifying data gaps and approaches for estimating/filling that data gap
+Processing, cleansing, and verifying the integrity of data used for analysis
+Using predictive analytics and presenting results in a clear manner
+Assisting with customer projects in terms of defining goals, performing analysis, documenting results and meeting deliverables while managing costs
+Assessing Prenscia suite of engineering data analysis and predictive analysis software for durability and reliability in the aforementioned to identify key “gaps” and recommend appropriate 3rd party tools to address them
+Prepare “use cases” related to the “gaps” to be filled to “feed” the Product Review Board (PRB) for future product needs
+Work collaboratively with customer and other team members (data scientists, engineers, developers) Selecting features, building and optimizing classifiers using machine learning techniques (R, Python)
+
+· Data mining using state-of-the-art methods
+
+· Extending company’s data to third-party sources of information when needed
+
+· Enhancing data collection procedures to include information that is relevant for building analytic systems
+
+· Processing, cleansing, and verifying the integrity of data used for analysis
+
+· Doing ad-hoc analysis and presenting results in a clear manner
+
+· Creating automated anomaly detection systems and constant tracking of its performance Apply statistical analysis & modeling techniques with finance intuition to datasets large and small, advance existing initiatives and open opportunities to pursue new and previously unexplored research topics across a wide variety of industries and domains
+Operate and extend the data science platform to deliver production-grade data curation and analysis services
+Own end-to-end data workflows and develop deep domain expertise on the underlying actors and behaviors manifested through data
+Visualize and explore data sets to enable the ideation and generation of new, predictive feature

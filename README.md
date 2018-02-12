@@ -22,14 +22,13 @@ In data, features that belong to similar groupings are tagged as such in the fea
 
 ![Labels Distribution](images/labels_distribution.png)
 
-![Sept-23, 2017](images/labels_distribution.png)
    
 This shows that the data is imbalanced.
 
 
    b. Correlation plot
 
-![Correlation_plot](images/labels_distribution.png)
+![Correlation_plot](images/correlation_plot.png)
 
 
 This shows that the columns with 'cal' suffix are not correlated to any columns in the data sets. We can use this information to keep useful columns when predicting our labels.

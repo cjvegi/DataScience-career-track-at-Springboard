@@ -23,7 +23,7 @@ In data, features that belong to similar groupings are tagged as such in the fea
 ![Labels Distribution](images/labels_distribution.png)
 
    
-This shows that the data is imbalanced.
+Lable:1 indicates people who claimed insurance while '0' who did not claim insurance. From the plot, we can infer that the data is imbalanced. Also, we can conclude that the base line accuracy is 96.36% i.e., predicting no one claims insurance.
 
 
    b. Correlation plot
@@ -34,11 +34,20 @@ This shows that the data is imbalanced.
 This shows that the columns with 'cal' suffix are not correlated to any columns in the data sets. We can use this information to keep useful columns when predicting our labels.
 
 
-   c. Imputing Missing values: filling with Median, Mean and using outlier detection methods
+   c. Imputing Missing values: Filling with Median, Mean and using outlier detection methods
 
 ### 2. Machine Learning:
 
-Trained different machine learning models and ensembeled them
+Trained different machine learning models and used ensemble techinqies to improve the metric 'Normalized gini index'
+
+Different Machine learning models used:
+1. Random Forest
+2. AdaBoost Classiifer
+3. Gradient Boosted Trees
+4. XGBoost
 
 
-Project Reference:https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+## Result
+ Top 17% on Kaggle Leaderboard with Normalized gini index of 0.28986 
+
+## Find the Code @ [GitHub: https://github.com/cjvegi/DataScience_career_track/tree/master/Capstone%20project%201]

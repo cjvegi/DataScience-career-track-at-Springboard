@@ -27,7 +27,7 @@ This shows that the data is imbalanced.
 
    b. Correlation plot
 
-![Correlation_plot](https://github.com/cjvegi/DataScience_career_track/blob/master/images/correlation_plot.png)
+![Correlation_plot](images/labels_distribution.png)
 
 
 This shows that the columns with 'cal' suffix are not correlated to any columns in the data sets. We can use this information to keep useful columns when predicting our labels.

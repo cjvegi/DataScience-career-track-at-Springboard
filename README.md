@@ -50,4 +50,5 @@ Different Machine learning models used:
 ## Result
  Top 17% on Kaggle Leaderboard with Normalized gini index of 0.28986 
 
-## Find the Code @ [GitHub: https://github.com/cjvegi/DataScience_career_track/tree/master/Capstone%20project%201]
+## Detailed Project report and Code
+[GitHub: https://github.com/cjvegi/DataScience_career_track/tree/master/Capstone%20project%201]

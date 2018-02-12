@@ -16,21 +16,23 @@ In data, features that belong to similar groupings are tagged as such in the fea
 
 ## Pipeline
 
-1. Exploratory Data Analysis:
+### 1. Exploratory Data Analysis:
 
-_Label/Target Distribution:
+   a. Label/Target Distribution:
 
    ![alt text](https://github.com/cjvegi/DataScience-career-track-at-Springboard/blob/master/Capstone%20project%201/images/labels_distribution.png)
 This shows that the data is imbalanced.
 
-_Correlation plot
+
+   b. Correlation plot
 
 ![alt text](https://github.com/cjvegi/DataScience-career-track-at-Springboard/blob/master/Capstone%20project%201/images/correlation_plot.png)
 This shows that the columns with 'cal' suffix are not correlated to any columns in the data sets. We can use this information to keep useful columns when predicting our labels.
 
-_Imputing Missing values: filling with Median, Mean and using outlier detection methods
 
-2. Machine Learning:
+   c. Imputing Missing values: filling with Median, Mean and using outlier detection methods
+
+### 2. Machine Learning:
 
 Trained different machine learning models and ensembeled them
 

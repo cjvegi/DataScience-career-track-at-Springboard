@@ -20,14 +20,14 @@ In data, features that belong to similar groupings are tagged as such in the fea
 
    a. Label/Target Distribution:
 
-![alt text](DataScience-career-track-at-Springboard/Capstone project 1/images)
+![alt text](https://github.com/cjvegi/DataScience_career_track/blob/master/images/lables_distribution.png)
    
 This shows that the data is imbalanced.
 
 
    b. Correlation plot
 
-![alt text](https://github.com/cjvegi/DataScience-career-track-at-Springboard/blob/master/Capstone%20project%201/images/correlation_plot.png)
+![alt text](https://github.com/cjvegi/DataScience_career_track/blob/master/images/correlation_plot.png)
 
 
 This shows that the columns with 'cal' suffix are not correlated to any columns in the data sets. We can use this information to keep useful columns when predicting our labels.

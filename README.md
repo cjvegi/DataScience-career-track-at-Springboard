@@ -16,4 +16,9 @@ In this competition, you will predict the probability that an auto insurance pol
 
 ![alt text](https://github.com/cjvegi/DataScience-career-track-at-Springboard/blob/master/Capstone%20project%201/images/correlation_plot.png)
 
+<p align="center">
+  <img src="https://github.com/cjvegi/DataScience-career-track-at-Springboard/blob/master/Capstone%20project%201/images/correlation_plot.png" width="350"/>
+  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+</p>
+
 Project Reference:https://www.kaggle.com/c/porto-seguro-safe-driver-prediction

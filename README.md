@@ -21,6 +21,8 @@ In data, features that belong to similar groupings are tagged as such in the fea
    a. Label/Target Distribution:
 
 ![Labels Distribution](images/labels_distribution.png)
+
+![]({% static 'images/labels_distribution.png' %}) 
    
 This shows that the data is imbalanced.
 

@@ -20,7 +20,7 @@ In data, features that belong to similar groupings are tagged as such in the fea
 
    a. Label/Target Distribution:
 
-![alt text](/Capstone project 1/images)
+![alt text](DataScience-career-track-at-Springboard/Capstone project 1/images)
    
 This shows that the data is imbalanced.
 
